@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/source/tools/toolutil
+END
+pkgitems.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/pkgitems.cpp
+END
+ucm.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ucm.c
+END
+udbgutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/udbgutil.h
+END
+toolutil.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/toolutil.vcxproj
+END
+uoptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/uoptions.h
+END
+filestrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/filestrm.c
+END
+ucm.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ucm.h
+END
+filestrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/filestrm.h
+END
+dbgutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/dbgutil.h
+END
+package.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/package.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/Makefile.in
+END
+swapimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/swapimpl.h
+END
+writesrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/writesrc.c
+END
+denseranges.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/denseranges.h
+END
+filetools.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/filetools.h
+END
+writesrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/writesrc.h
+END
+unewdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/unewdata.c
+END
+unewdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/unewdata.h
+END
+xmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/xmlparser.cpp
+END
+udbgutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/udbgutil.cpp
+END
+toolutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/toolutil.h
+END
+ppucd.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ppucd.h
+END
+ucmstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ucmstate.c
+END
+flagparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/flagparser.c
+END
+pkg_icu.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/pkg_icu.h
+END
+dbgutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/dbgutil.cpp
+END
+flagparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/flagparser.h
+END
+pkg_imp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/pkg_imp.h
+END
+package.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/package.cpp
+END
+swapimpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/swapimpl.cpp
+END
+denseranges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/denseranges.cpp
+END
+uparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/uparse.c
+END
+filetools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/filetools.cpp
+END
+uparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/uparse.h
+END
+ucbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ucbuf.c
+END
+pkg_gencmn.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/pkg_gencmn.c
+END
+ucln_tu.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ucln_tu.c
+END
+ucbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ucbuf.h
+END
+ppucd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/ppucd.cpp
+END
+toolutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/toolutil.cpp
+END
+pkg_genc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/source/tools/toolutil/pkg_genc.c
+END
+pkg_gencmn.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/pkg_gencmn.h
+END
+uoptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/uoptions.c
+END
+pkg_icu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/pkg_icu.cpp
+END
+xmlparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/xmlparser.h
+END
+pkg_genc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/toolutil/pkg_genc.h
+END

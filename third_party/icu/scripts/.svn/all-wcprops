@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/272650/trunk/deps/third_party/icu52/scripts
+END
+ibm866_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/scripts/ibm866_gen.sh
+END
+trim_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/268285/trunk/deps/third_party/icu52/scripts/trim_data.sh
+END
+currencies_to_drop.list
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/264811/trunk/deps/third_party/icu52/scripts/currencies_to_drop.list
+END
+make_mac_assembly.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/266602/trunk/deps/third_party/icu52/scripts/make_mac_assembly.sh
+END
+eucjp_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/266919/trunk/deps/third_party/icu52/scripts/eucjp_gen.sh
+END
+accept_lang.list
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/272650/trunk/deps/third_party/icu52/scripts/accept_lang.list
+END
+chrome_ui_languages.list
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/268285/trunk/deps/third_party/icu52/scripts/chrome_ui_languages.list
+END

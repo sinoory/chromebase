@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/datecal
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/datecal/Makefile
+END
+cal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/datecal/cal.cpp
+END
+ccal.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/datecal/ccal.c
+END

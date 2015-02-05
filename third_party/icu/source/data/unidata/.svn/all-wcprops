@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata
+END
+DerivedCoreProperties.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/DerivedCoreProperties.txt
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/changes.txt
+END
+confusablesWholeScript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/confusablesWholeScript.txt
+END
+FractionalUCA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/FractionalUCA.txt
+END
+ppucd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/ppucd.txt
+END
+DerivedNormalizationProps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/DerivedNormalizationProps.txt
+END
+CaseFolding.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/CaseFolding.txt
+END
+UnicodeData.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/UnicodeData.txt
+END
+NormalizationCorrections.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/NormalizationCorrections.txt
+END
+UCARules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/UCARules.txt
+END
+confusables.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/confusables.txt
+END
+SpecialCasing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/SpecialCasing.txt
+END
+NormalizationTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/NormalizationTest.txt
+END
+ucdterms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/data/unidata/ucdterms.txt
+END

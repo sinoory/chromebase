@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/strsrch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/strsrch/Makefile
+END
+strsrch.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/strsrch/strsrch.vcxproj
+END
+strsrch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/strsrch/strsrch.cpp
+END
+strsrch.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/strsrch/strsrch.vcxproj.filters
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/strsrch/readme.txt
+END

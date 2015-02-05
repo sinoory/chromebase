@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata
+END
+writer.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/writer.vcxproj
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/readme.txt
+END
+reader.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/reader.vcxproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/Makefile
+END
+writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/writer.c
+END
+writer.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/writer.vcxproj.filters
+END
+reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/reader.c
+END
+reader.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/udata/reader.vcxproj.filters
+END

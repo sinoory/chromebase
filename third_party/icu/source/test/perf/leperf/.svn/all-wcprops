@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf
+END
+cfonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/cfonts.cpp
+END
+FontObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/FontObject.cpp
+END
+cfonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/cfonts.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/Makefile.in
+END
+FontObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/FontObject.h
+END
+FontTableCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/FontTableCache.cpp
+END
+cmaps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/cmaps.cpp
+END
+SimpleFontInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/SimpleFontInstance.cpp
+END
+FontTableCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/FontTableCache.h
+END
+cmaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/cmaps.h
+END
+SimpleFontInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/SimpleFontInstance.h
+END
+leperf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/leperf.cpp
+END
+sfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/sfnt.h
+END
+letrperf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/letrperf.cpp
+END
+xmlreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/xmlreader.cpp
+END
+PortableFontInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/PortableFontInstance.cpp
+END
+xmlreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/xmlreader.h
+END
+PortableFontInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/leperf/PortableFontInstance.h
+END

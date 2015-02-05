@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal
+END
+cal.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal/cal.vcxproj
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal/readme.txt
+END
+cal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal/cal.c
+END
+cal.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal/cal.vcxproj.filters
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal/Makefile.in
+END
+uprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal/uprint.c
+END
+uprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/cal/uprint.h
+END

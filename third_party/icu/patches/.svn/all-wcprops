@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/272650/trunk/deps/third_party/icu52/patches
+END
+locale1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/263295/trunk/deps/third_party/icu52/patches/locale1.patch
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/patches/configure.patch
+END
+declspec.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/261498/trunk/deps/third_party/icu52/patches/declspec.patch
+END
+data.build.win.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/266602/trunk/deps/third_party/icu52/patches/data.build.win.patch
+END
+wpo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/patches/wpo.patch
+END
+data.build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/patches/data.build.patch
+END
+vscomp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/266901/trunk/deps/third_party/icu52/patches/vscomp.patch
+END
+converters.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/patches/converters.patch
+END
+uconv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/patches/uconv.patch
+END
+brkitr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/272650/trunk/deps/third_party/icu52/patches/brkitr.patch
+END
+putil.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/267335/trunk/deps/third_party/icu52/patches/putil.patch
+END
+khmer-dictbe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/262192/trunk/deps/third_party/icu52/patches/khmer-dictbe.patch
+END

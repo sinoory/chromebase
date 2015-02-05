@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/README
+END
+icuperf2report.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/icuperf2report.xsl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/Makefile.in
+END

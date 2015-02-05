@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv
+END
+makeconv.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/makeconv.vcxproj
+END
+gencnvex.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/gencnvex.c
+END
+genmbcs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/genmbcs.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/Makefile.in
+END
+genmbcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/genmbcs.h
+END
+makeconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/makeconv.c
+END
+makeconv.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/makeconv.vcxproj.filters
+END
+makeconv.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/makeconv.1.in
+END
+ucnvstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/ucnvstat.c
+END
+makeconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/makeconv/makeconv.h
+END

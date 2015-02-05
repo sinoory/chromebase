@@ -1023,7 +1023,7 @@
             }],
             ['use_openssl==0', {
               'dependencies': [
-                '../../net/third_party/nss/ssl.gyp:libssl',
+                #'../../net/third_party/nss/ssl.gyp:libssl',
               ],
               'direct_dependent_settings': {
                 'include_dirs+': [

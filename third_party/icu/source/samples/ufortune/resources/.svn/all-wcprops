@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/ufortune/resources
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/ufortune/resources/Makefile
+END
+res-file-list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/ufortune/resources/res-file-list.txt
+END
+root.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/ufortune/resources/root.txt
+END
+fortune_resources.mak
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/ufortune/resources/fortune_resources.mak
+END
+es.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/ufortune/resources/es.txt
+END

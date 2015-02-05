@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date/readme.txt
+END
+date.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date/date.c
+END
+date.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date/date.vcxproj.filters
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date/Makefile.in
+END
+uprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date/uprint.c
+END
+date.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date/date.vcxproj
+END
+uprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/samples/date/uprint.h
+END

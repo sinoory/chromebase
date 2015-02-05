@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/genren
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/genren/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/genren/README
+END
+genren.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/genren/genren.pl
+END

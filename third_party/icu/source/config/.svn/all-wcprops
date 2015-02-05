@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/265011/trunk/deps/third_party/icu52/source/config
+END
+windows-update.sed.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/windows-update.sed.in
+END
+mh-beos
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-beos
+END
+mh-linux
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-linux
+END
+mh-unknown
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-unknown
+END
+make2sh.sed
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/make2sh.sed
+END
+mh-bsd-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-bsd-gcc
+END
+mh-solaris-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-solaris-gcc
+END
+test-icu-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/test-icu-config.sh
+END
+mh-alpha-osf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-alpha-osf
+END
+mh-aix-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-aix-gcc
+END
+pkgdataMakefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/pkgdataMakefile.in
+END
+mh-os390
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-os390
+END
+mh-mpras
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-mpras
+END
+mh-darwin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-darwin
+END
+icu.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/icu.pc.in
+END
+mh-aix-va
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-aix-va
+END
+Makefile.inc.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/Makefile.inc.in
+END
+mh-mingw64
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-mingw64
+END
+mh-cygwin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-cygwin
+END
+mh-haiku
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-haiku
+END
+mh-linux-va
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-linux-va
+END
+mh-os400
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-os400
+END
+gmakever.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/265011/trunk/deps/third_party/icu52/source/config/gmakever.mk
+END
+mh-alpha-linux-cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-alpha-linux-cc
+END
+mh-cygwin-msvc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-cygwin-msvc
+END
+mh-qnx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-qnx
+END
+dist.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/265011/trunk/deps/third_party/icu52/source/config/dist.mk
+END
+mh-hpux-acc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-hpux-acc
+END
+mh-irix
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-irix
+END
+mh-alpha-linux-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-alpha-linux-gcc
+END
+mh-solaris
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-solaris
+END
+mh-hpux-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-hpux-gcc
+END
+mh-mingw
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/mh-mingw
+END
+icu-config-top
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/icu-config-top
+END
+icu-config-bottom
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/icu-config-bottom
+END
+icu-config.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/config/icu-config.1.in
+END

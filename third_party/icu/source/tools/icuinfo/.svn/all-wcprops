@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo
+END
+testplug.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo/testplug.c
+END
+testplug.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo/testplug.vcxproj.filters
+END
+icuplugins_windows_sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo/icuplugins_windows_sample.txt
+END
+icuinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo/icuinfo.cpp
+END
+testplug.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo/testplug.vcxproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo/Makefile.in
+END
+icuinfo.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/tools/icuinfo/icuinfo.vcxproj
+END

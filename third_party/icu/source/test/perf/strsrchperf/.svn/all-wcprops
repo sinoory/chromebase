@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/strsrchperf
+END
+strsrchperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/strsrchperf/strsrchperf.h
+END
+strsrchperf.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/strsrchperf/strsrchperf.vcxproj
+END
+StrSrchPerf_r.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/strsrchperf/StrSrchPerf_r.pl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/strsrchperf/Makefile.in
+END
+strsrchperf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/strsrchperf/strsrchperf.cpp
+END
+strsrchperf.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/test/perf/strsrchperf/strsrchperf.vcxproj.filters
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun/readme.html
+END
+srtest.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun/srtest.dsw
+END
+scrptrun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun/scrptrun.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun/Makefile.in
+END
+srtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun/srtest.cpp
+END
+scrptrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun/scrptrun.h
+END
+srtest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259715/trunk/deps/third_party/icu52/source/extra/scrptrun/srtest.dsp
+END
