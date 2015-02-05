@@ -3146,7 +3146,8 @@
       'Debug_Base': {
         'abstract': 1,
         'defines': [
-          'DYNAMIC_ANNOTATIONS_ENABLED=1',
+          #DYNAMIC_ANNOTATIONS_ENABLED=1 cause compile error in debug
+          'DYNAMIC_ANNOTATIONS_ENABLED=0',
           'WTF_USE_DYNAMIC_ANNOTATIONS=1',
         ],
         'xcode_settings': {

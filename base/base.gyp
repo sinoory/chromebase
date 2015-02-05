@@ -46,7 +46,8 @@
             'xdg_mime',
           ],
           'defines': [
-            'USE_SYMBOLIZE',
+            #compile error USE_SYMBOLIZE when link debug base.a
+            #'USE_SYMBOLIZE',
           ],
         }, {  # desktop_linux == 0 and chromeos == 0
             'sources/': [
