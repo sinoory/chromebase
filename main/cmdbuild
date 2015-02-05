@@ -1,0 +1,10 @@
+g++ main.c -I .
+use -I . to set the include path at pwd
+
+g++ main.c -I . -static -L/home/sin/nw38src/out/Release/obj/base/ -lbase -lpthread 
+-lpthread : use pthread
+-L/.. : the .a lib is position related, must be the path it was generated.
+can use -fpic to generate position independent code lib.so
+
+g++ main.c -I .. -static -L../out/Release/obj/base/ -lbase -lbase_static -lpthread
+
