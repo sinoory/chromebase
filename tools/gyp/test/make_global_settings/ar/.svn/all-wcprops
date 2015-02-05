@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1942/trunk/test/make_global_settings/ar
+END
+make_global_settings_ar.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1931/trunk/test/make_global_settings/ar/make_global_settings_ar.gyp
+END
+gyptest-make_global_settings_ar.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1942/trunk/test/make_global_settings/ar/gyptest-make_global_settings_ar.py
+END

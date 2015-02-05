@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/264626/trunk/src/build/config/ios
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/248476/trunk/src/build/config/ios/BUILD.gn
+END
+ios_sdk.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/247206/trunk/src/build/config/ios/ios_sdk.py
+END
+ios_sdk.gni
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/264626/trunk/src/build/config/ios/ios_sdk.gni
+END

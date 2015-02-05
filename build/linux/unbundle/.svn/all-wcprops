@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/289106/trunk/src/build/linux/unbundle
+END
+flac.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/197927/trunk/src/build/linux/unbundle/flac.gyp
+END
+replace_gyp_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/284729/trunk/src/build/linux/unbundle/replace_gyp_files.py
+END
+libevent.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/libevent.gyp
+END
+snappy.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/198188/trunk/src/build/linux/unbundle/snappy.gyp
+END
+libpng.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/libpng.gyp
+END
+libjpeg.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/libjpeg.gyp
+END
+jsoncpp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/jsoncpp.gyp
+END
+remove_bundled_libraries.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/289106/trunk/src/build/linux/unbundle/remove_bundled_libraries.py
+END
+icu.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/228979/trunk/src/build/linux/unbundle/icu.gyp
+END
+libusb.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/libusb.gyp
+END
+expat.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/expat.gyp
+END
+libxslt.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/libxslt.gyp
+END
+openssl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/217339/trunk/src/build/linux/unbundle/openssl.gyp
+END
+libwebp.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/libwebp.gyp
+END
+speex.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/197927/trunk/src/build/linux/unbundle/speex.gyp
+END
+opus.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/opus.gyp
+END
+libxml.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/libxml.gyp
+END
+libXNVCtrl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250495/trunk/src/build/linux/unbundle/libXNVCtrl.gyp
+END
+re2.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/re2.gyp
+END
+harfbuzz.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/275094/trunk/src/build/linux/unbundle/harfbuzz.gyp
+END
+v8.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/213731/trunk/src/build/linux/unbundle/v8.gyp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/218816/trunk/src/build/linux/unbundle/README
+END
+zlib.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/199050/trunk/src/build/linux/unbundle/zlib.gyp
+END
+sqlite.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/196551/trunk/src/build/linux/unbundle/sqlite.gyp
+END
+libvpx.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/199050/trunk/src/build/linux/unbundle/libvpx.gyp
+END
+ffmpeg.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/198746/trunk/src/build/linux/unbundle/ffmpeg.gyp
+END

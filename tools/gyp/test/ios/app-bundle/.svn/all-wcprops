@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1889/trunk/test/ios/app-bundle
+END
+tool_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1881/trunk/test/ios/app-bundle/tool_main.cc
+END
+test-device.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1756/trunk/test/ios/app-bundle/test-device.gyp
+END
+test-archs.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1850/trunk/test/ios/app-bundle/test-archs.gyp
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1889/trunk/test/ios/app-bundle/test.gyp
+END
+test-crosscompile.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/trunk/test/ios/app-bundle/test-crosscompile.gyp
+END

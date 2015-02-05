@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/291464/trunk/src/build/android/gyp
+END
+write_ordered_libraries.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/write_ordered_libraries.py
+END
+finalize_apk.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/287729/trunk/src/build/android/gyp/finalize_apk.py
+END
+emma_instr.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/258451/trunk/src/build/android/gyp/emma_instr.py
+END
+write_build_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/write_build_config.py
+END
+gcc_preprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/gcc_preprocess.py
+END
+apk_install.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/282469/trunk/src/build/android/gyp/apk_install.py
+END
+zip.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/276226/trunk/src/build/android/gyp/zip.py
+END
+jarjar_resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/278849/trunk/src/build/android/gyp/jarjar_resources.py
+END
+create_standalone_apk.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/258451/trunk/src/build/android/gyp/create_standalone_apk.py
+END
+create_device_library_links.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/create_device_library_links.py
+END
+copy_ex.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/copy_ex.py
+END
+apk_obfuscate.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/277257/trunk/src/build/android/gyp/apk_obfuscate.py
+END
+lint.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/291240/trunk/src/build/android/gyp/lint.py
+END
+process_resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/286031/trunk/src/build/android/gyp/process_resources.py
+END
+strip_library_for_device.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/strip_library_for_device.py
+END
+push_libraries.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/push_libraries.py
+END
+jar.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/279152/trunk/src/build/android/gyp/jar.py
+END
+generate_v14_compatible_resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/287711/trunk/src/build/android/gyp/generate_v14_compatible_resources.py
+END
+pack_arm_relocations.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/290963/trunk/src/build/android/gyp/pack_arm_relocations.py
+END
+find.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/283293/trunk/src/build/android/gyp/find.py
+END
+dex.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/286345/trunk/src/build/android/gyp/dex.py
+END
+jar_toc.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/286031/trunk/src/build/android/gyp/jar_toc.py
+END
+ant.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/287729/trunk/src/build/android/gyp/ant.py
+END
+touch.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/286028/trunk/src/build/android/gyp/touch.py
+END
+proguard.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/291464/trunk/src/build/android/gyp/proguard.py
+END
+delete_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/273333/trunk/src/build/android/gyp/delete_files.py
+END
+javac.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/283293/trunk/src/build/android/gyp/javac.py
+END
+get_device_configuration.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/258451/trunk/src/build/android/gyp/get_device_configuration.py
+END
+package_resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/287729/trunk/src/build/android/gyp/package_resources.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/.gitignore
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/227550/trunk/src/tools/win/ChromeDebug/README.txt
+END
+ChromeDebug.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug.sln
+END

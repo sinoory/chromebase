@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/291544/trunk/src/tools/telemetry/telemetry/core
+END
+local_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/local_server.py
+END
+memory_cache_http_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/290948/trunk/src/tools/telemetry/telemetry/core/memory_cache_http_server.py
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/291431/trunk/src/tools/telemetry/telemetry/core/browser.py
+END
+profile_types_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/telemetry/core/profile_types_unittest.py
+END
+profile_types.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/profile_types.py
+END
+command_line.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/283583/trunk/src/tools/telemetry/telemetry/core/command_line.py
+END
+webpagereplay.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/289604/trunk/src/tools/telemetry/telemetry/core/webpagereplay.py
+END
+bitmaptools.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246361/trunk/src/tools/telemetry/telemetry/core/bitmaptools.cc
+END
+web_contents.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/288530/trunk/src/tools/telemetry/telemetry/core/web_contents.py
+END
+user_agent_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/283119/trunk/src/tools/telemetry/telemetry/core/user_agent_unittest.py
+END
+user_agent.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/284383/trunk/src/tools/telemetry/telemetry/core/user_agent.py
+END
+browser_options_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/browser_options_unittest.py
+END
+browser_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/272620/trunk/src/tools/telemetry/telemetry/core/browser_info.py
+END
+browser_options.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/291246/trunk/src/tools/telemetry/telemetry/core/browser_options.py
+END
+wpr_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/wpr_server.py
+END
+system_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/system_info.py
+END
+browser_credentials_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/browser_credentials_unittest.py
+END
+browser_credentials.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/browser_credentials.py
+END
+gpu_info_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/gpu_info_unittest.py
+END
+gpu_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/gpu_info.py
+END
+extension_page.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/telemetry/core/extension_page.py
+END
+gpu_device_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/gpu_device_unittest.py
+END
+browser_finder.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/291246/trunk/src/tools/telemetry/telemetry/core/browser_finder.py
+END
+gpu_device.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228870/trunk/src/tools/telemetry/telemetry/core/gpu_device.py
+END
+camel_case_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228870/trunk/src/tools/telemetry/telemetry/core/camel_case_unittest.py
+END
+extension_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/telemetry/core/extension_unittest.py
+END
+util_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/util_unittest.py
+END
+camel_case.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/228870/trunk/src/tools/telemetry/telemetry/core/camel_case.py
+END
+discover_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/discover_unittest.py
+END
+extension_to_load.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/extension_to_load.py
+END
+discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/275633/trunk/src/tools/telemetry/telemetry/core/discover.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/291431/trunk/src/tools/telemetry/telemetry/core/exceptions.py
+END
+network_quiescence.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/255851/trunk/src/tools/telemetry/telemetry/core/network_quiescence.js
+END
+browser_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/290671/trunk/src/tools/telemetry/telemetry/core/browser_unittest.py
+END
+possible_browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/291246/trunk/src/tools/telemetry/telemetry/core/possible_browser.py
+END
+system_info_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/system_info_unittest.py
+END
+wpr_modes.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/wpr_modes.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/telemetry/core/__init__.py
+END
+tab_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/telemetry/core/tab_list.py
+END
+environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/telemetry/core/environment.py
+END
+video_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/280332/trunk/src/tools/telemetry/telemetry/core/video_unittest.py
+END
+tab_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/291431/trunk/src/tools/telemetry/telemetry/core/tab_unittest.py
+END
+video.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/283165/trunk/src/tools/telemetry/telemetry/core/video.py
+END
+tab.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/276839/trunk/src/tools/telemetry/telemetry/core/tab.py
+END
+bitmap_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/bitmap_unittest.py
+END
+bitmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/270390/trunk/src/tools/telemetry/telemetry/core/bitmap.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/277205/trunk/src/tools/telemetry/telemetry/core/util.py
+END
+extension_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/telemetry/core/extension_dict.py
+END
+local_server_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/local_server_unittest.py
+END
+memory_cache_http_server_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/289247/trunk/src/tools/telemetry/telemetry/core/memory_cache_http_server_unittest.py
+END

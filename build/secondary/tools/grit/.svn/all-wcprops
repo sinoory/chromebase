@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/291173/trunk/src/build/secondary/tools/grit
+END
+repack.gni
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/282076/trunk/src/build/secondary/tools/grit/repack.gni
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/284705/trunk/src/build/secondary/tools/grit/BUILD.gn
+END
+stamp_grit_sources.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/284705/trunk/src/build/secondary/tools/grit/stamp_grit_sources.py
+END
+grit_rule.gni
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/291173/trunk/src/build/secondary/tools/grit/grit_rule.gni
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/265620/trunk/src/tools/memory_inspector/memory_inspector/core
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/249723/trunk/src/tools/memory_inspector/memory_inspector/core/__init__.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/255933/trunk/src/tools/memory_inspector/memory_inspector/core/exceptions.py
+END
+native_heap.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/265620/trunk/src/tools/memory_inspector/memory_inspector/core/native_heap.py
+END
+stacktrace_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/251413/trunk/src/tools/memory_inspector/memory_inspector/core/stacktrace_unittest.py
+END
+memory_map_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/251413/trunk/src/tools/memory_inspector/memory_inspector/core/memory_map_unittest.py
+END
+stacktrace.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/265620/trunk/src/tools/memory_inspector/memory_inspector/core/stacktrace.py
+END
+memory_map.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/254451/trunk/src/tools/memory_inspector/memory_inspector/core/memory_map.py
+END
+symbol.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/265620/trunk/src/tools/memory_inspector/memory_inspector/core/symbol.py
+END
+backends_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/265620/trunk/src/tools/memory_inspector/memory_inspector/core/backends_unittest.py
+END
+backends.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/265620/trunk/src/tools/memory_inspector/memory_inspector/core/backends.py
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/287629/trunk/src/tools/usb_gadget
+END
+mouse_gadget_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/285383/trunk/src/tools/usb_gadget/mouse_gadget_test.py
+END
+mouse_gadget.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/286158/trunk/src/tools/usb_gadget/mouse_gadget.py
+END
+linux_gadgetfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/286158/trunk/src/tools/usb_gadget/linux_gadgetfs.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/285531/trunk/src/tools/usb_gadget/server.py
+END
+usb_descriptors_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/285177/trunk/src/tools/usb_gadget/usb_descriptors_test.py
+END
+usb_descriptors.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/285177/trunk/src/tools/usb_gadget/usb_descriptors.py
+END
+keyboard_gadget_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/285298/trunk/src/tools/usb_gadget/keyboard_gadget_test.py
+END
+keyboard_gadget.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/286158/trunk/src/tools/usb_gadget/keyboard_gadget.py
+END
+hid_echo_gadget.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/287364/trunk/src/tools/usb_gadget/hid_echo_gadget.py
+END
+hid_gadget_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/285143/trunk/src/tools/usb_gadget/hid_gadget_test.py
+END
+hid_gadget.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/285143/trunk/src/tools/usb_gadget/hid_gadget.py
+END
+__main__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/287364/trunk/src/tools/usb_gadget/__main__.py
+END
+hid_descriptors_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/285383/trunk/src/tools/usb_gadget/hid_descriptors_test.py
+END
+hid_descriptors.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/285177/trunk/src/tools/usb_gadget/hid_descriptors.py
+END
+usb_constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/287629/trunk/src/tools/usb_gadget/usb_constants.py
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/285076/trunk/src/tools/usb_gadget/OWNERS
+END
+gadget_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/285098/trunk/src/tools/usb_gadget/gadget_test.py
+END
+package.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/285531/trunk/src/tools/usb_gadget/package.py
+END
+gadget.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/285098/trunk/src/tools/usb_gadget/gadget.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/285414/trunk/src/tools/usb_gadget/__init__.py
+END
+default_gadget.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/285414/trunk/src/tools/usb_gadget/default_gadget.py
+END
+hid_constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/285177/trunk/src/tools/usb_gadget/hid_constants.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/237473/trunk/src/base/test/data/prefs
+END
+invalid.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/192780/trunk/src/base/test/data/prefs/invalid.json
+END
+read.json
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/192780/trunk/src/base/test/data/prefs/read.json
+END
+write.golden.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/192780/trunk/src/base/test/data/prefs/write.golden.json
+END

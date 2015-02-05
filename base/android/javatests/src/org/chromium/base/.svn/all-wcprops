@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/284023/trunk/src/base/android/javatests/src/org/chromium/base
+END
+ObserverListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/257094/trunk/src/base/android/javatests/src/org/chromium/base/ObserverListTest.java
+END
+AdvancedMockContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/284023/trunk/src/base/android/javatests/src/org/chromium/base/AdvancedMockContextTest.java
+END
+CommandLineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/239823/trunk/src/base/android/javatests/src/org/chromium/base/CommandLineTest.java
+END
+LibraryLoaderHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/258546/trunk/src/base/android/javatests/src/org/chromium/base/LibraryLoaderHelperTest.java
+END

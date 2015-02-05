@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/284274/trunk/src/tools/ipc_fuzzer/message_lib
+END
+message_file_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/254821/trunk/src/tools/ipc_fuzzer/message_lib/message_file_format.h
+END
+message_file_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/252296/trunk/src/tools/ipc_fuzzer/message_lib/message_file_writer.cc
+END
+message_cracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/239831/trunk/src/tools/ipc_fuzzer/message_lib/message_cracker.h
+END
+all_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/280663/trunk/src/tools/ipc_fuzzer/message_lib/all_messages.h
+END
+message_lib.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/284274/trunk/src/tools/ipc_fuzzer/message_lib/message_lib.gyp
+END
+message_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/239831/trunk/src/tools/ipc_fuzzer/message_lib/message_file.h
+END
+message_file_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/239831/trunk/src/tools/ipc_fuzzer/message_lib/message_file_reader.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/280663/trunk/src/tools/ipc_fuzzer/message_lib/DEPS
+END
+message_names.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/239831/trunk/src/tools/ipc_fuzzer/message_lib/message_names.cc
+END
+message_names.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/239831/trunk/src/tools/ipc_fuzzer/message_lib/message_names.h
+END

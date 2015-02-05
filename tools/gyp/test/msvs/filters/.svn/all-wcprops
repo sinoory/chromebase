@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1859/trunk/test/msvs/filters
+END
+gyptest-filters-2008.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1859/trunk/test/msvs/filters/gyptest-filters-2008.py
+END
+filters.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1859/trunk/test/msvs/filters/filters.gyp
+END
+gyptest-filters-2010.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1859/trunk/test/msvs/filters/gyptest-filters-2010.py
+END

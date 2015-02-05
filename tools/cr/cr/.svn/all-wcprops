@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/286720/trunk/src/tools/cr/cr
+END
+plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/plugin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/__init__.py
+END
+visitor.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/268928/trunk/src/tools/cr/cr/visitor.py
+END
+autocomplete.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/autocomplete.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/268928/trunk/src/tools/cr/cr/config.py
+END
+loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/loader.py
+END

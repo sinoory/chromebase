@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data
+END
+chrome_proxy_top_20_000.wpr.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_top_20_000.wpr.sha1
+END
+chrome_proxy_smoke.json
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_smoke.json
+END
+chrome_proxy_bypass.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_bypass.json
+END
+chrome_proxy_safebrowsing_000.wpr.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_safebrowsing_000.wpr.sha1
+END
+chrome_proxy_synthetic_000.wpr.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_synthetic_000.wpr.sha1
+END
+chrome_proxy_top_20.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_top_20.json
+END
+chrome_proxy_smoke_000.wpr.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_smoke_000.wpr.sha1
+END
+chrome_proxy_safebrowsing.json
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_safebrowsing.json
+END
+chrome_proxy_bypass_000.wpr.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_bypass_000.wpr.sha1
+END
+chrome_proxy_synthetic.json
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/284310/trunk/src/tools/chrome_proxy/integration_tests/chrome_proxy_pagesets/data/chrome_proxy_synthetic.json
+END

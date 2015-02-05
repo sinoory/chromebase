@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1913/trunk/test/variables/commands/repeated_multidir/dir_1
+END
+test_1.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1913/trunk/test/variables/commands/repeated_multidir/dir_1/test_1.gyp
+END

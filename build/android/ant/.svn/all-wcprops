@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/287729/trunk/src/build/android/ant
+END
+apk-package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/287729/trunk/src/build/android/ant/apk-package.xml
+END
+chromium-debug.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/155850/trunk/src/build/android/ant/chromium-debug.keystore
+END

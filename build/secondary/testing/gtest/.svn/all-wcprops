@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/288988/trunk/src/build/secondary/testing/gtest
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/288988/trunk/src/build/secondary/testing/gtest/BUILD.gn
+END

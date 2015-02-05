@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/286663/trunk/src/build/secondary/third_party/libsrtp
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/286663/trunk/src/build/secondary/third_party/libsrtp/BUILD.gn
+END

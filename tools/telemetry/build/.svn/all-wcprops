@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/259505/trunk/src/tools/telemetry/build
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/207156/trunk/src/tools/telemetry/build/__init__.py
+END
+generate_telemetry_harness.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259505/trunk/src/tools/telemetry/build/generate_telemetry_harness.sh
+END
+update_docs.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/218014/trunk/src/tools/telemetry/build/update_docs.py
+END

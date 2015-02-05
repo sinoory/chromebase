@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1875/trunk/test/win/win-tool
+END
+gyptest-win-tool-handles-readonly-files.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1875/trunk/test/win/win-tool/gyptest-win-tool-handles-readonly-files.py
+END
+copies_readonly_files.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1875/trunk/test/win/win-tool/copies_readonly_files.gyp
+END

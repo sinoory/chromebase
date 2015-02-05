@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/272163/trunk/src/tools/memory_inspector/classification_rules/default
+END
+mmap-android.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/258934/trunk/src/tools/memory_inspector/classification_rules/default/mmap-android.py
+END
+nheap-android.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/272163/trunk/src/tools/memory_inspector/classification_rules/default/nheap-android.py
+END

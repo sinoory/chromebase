@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1927/trunk/test/android
+END
+gyptest-make-functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1927/trunk/test/android/gyptest-make-functions.py
+END
+gyptest-noalias.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1886/trunk/test/android/gyptest-noalias.py
+END
+space_filenames.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1927/trunk/test/android/space_filenames.gyp
+END
+gyptest-space-filenames.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1927/trunk/test/android/gyptest-space-filenames.py
+END
+hello.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1886/trunk/test/android/hello.gyp
+END
+make_functions.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1927/trunk/test/android/make_functions.gyp
+END
+file.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1927/trunk/test/android/file.in
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1886/trunk/test/android/hello.c
+END

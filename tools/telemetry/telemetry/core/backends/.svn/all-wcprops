@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/291431/trunk/src/tools/telemetry/telemetry/core/backends
+END
+form_based_credentials_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/229726/trunk/src/tools/telemetry/telemetry/core/backends/form_based_credentials_backend.py
+END
+adb_commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/281794/trunk/src/tools/telemetry/telemetry/core/backends/adb_commands.py
+END
+browser_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/291431/trunk/src/tools/telemetry/telemetry/core/backends/browser_backend.py
+END
+facebook_credentials_backend_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/backends/facebook_credentials_backend_unittest.py
+END
+facebook_credentials_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/backends/facebook_credentials_backend.py
+END
+form_based_credentials_backend_unittest_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/280332/trunk/src/tools/telemetry/telemetry/core/backends/form_based_credentials_backend_unittest_base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/215340/trunk/src/tools/telemetry/telemetry/core/backends/__init__.py
+END
+google_credentials_backend_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/backends/google_credentials_backend_unittest.py
+END
+google_credentials_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/289043/trunk/src/tools/telemetry/telemetry/core/backends/google_credentials_backend.py
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/commands
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/info.py
+END
+sync.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/260927/trunk/src/tools/cr/cr/commands/sync.py
+END
+command.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/command.py
+END
+prepare.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/260927/trunk/src/tools/cr/cr/commands/prepare.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/commands/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/build.py
+END
+select.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/select.py
+END
+init.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/commands/init.py
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/run.py
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/debug.py
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/install.py
+END
+shell.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/commands/shell.py
+END

@@ -1,0 +1,37 @@
+10
+
+dir
+293070
+http://src.chromium.org/svn/trunk/src/tools/checkdeps/testdata
+http://src.chromium.org/svn
+
+
+
+2014-06-12T17:44:15.585337Z
+276734
+jochen@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+allowed
+dir
+
+disallowed
+dir
+
+checkdeps_test
+dir
+

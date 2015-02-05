@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214231/trunk/src/tools/win/sizeviewer
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/214231/trunk/src/tools/win/sizeviewer/template.html
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/214231/trunk/src/tools/win/sizeviewer/README.chromium
+END
+code_tally.exe
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/214231/trunk/src/tools/win/sizeviewer/code_tally.exe
+END
+sizeviewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/214231/trunk/src/tools/win/sizeviewer/sizeviewer.py
+END

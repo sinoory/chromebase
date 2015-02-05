@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/ChromeDebug
+END
+ChromeDebugPackage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/ChromeDebugPackage.cs
+END
+AttachDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/AttachDialog.resx
+END
+ProcessDetail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/ChromeDebug/ProcessDetail.cs
+END
+Utility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/Utility.cs
+END
+Resources.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/Resources.Designer.cs
+END
+Guids.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/Guids.cs
+END
+ProcessCategory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/ProcessCategory.cs
+END
+Key.snk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/224165/trunk/src/tools/win/ChromeDebug/ChromeDebug/Key.snk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/LICENSE
+END
+ChromeDebug.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/ChromeDebug.csproj
+END
+VSPackage.resx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/VSPackage.resx
+END
+PkgCmdID.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/PkgCmdID.cs
+END
+AttachDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/ChromeDebug/AttachDialog.Designer.cs
+END
+AttachDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/ChromeDebug/AttachDialog.cs
+END
+Resources.resx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/Resources.resx
+END
+source.extension.vsixmanifest
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/source.extension.vsixmanifest
+END
+GlobalSuppressions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/ChromeDebug/GlobalSuppressions.cs
+END
+ChromeDebug.vsct
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/ChromeDebug/ChromeDebug.vsct
+END

@@ -1,0 +1,64 @@
+10
+
+dir
+1967
+http://gyp.googlecode.com/svn/trunk/test/msvs
+http://gyp.googlecode.com/svn
+
+
+
+2014-06-20T17:42:59.748642Z
+1945
+scottmg@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+78cadc50-ecff-11dd-a971-7dbc132099af
+
+multiple_actions_error_handling
+dir
+
+filters
+dir
+
+external_builder
+dir
+
+list_excluded
+dir
+
+express
+dir
+
+missing_sources
+dir
+
+uldi2010
+dir
+
+config_attrs
+dir
+
+precompiled
+dir
+
+props
+dir
+
+buildevents
+dir
+
+shared_output
+dir
+

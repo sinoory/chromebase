@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1943/trunk/test/configurations/inheritance
+END
+duplicates.gypd.golden
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1891/trunk/test/configurations/inheritance/duplicates.gypd.golden
+END
+configurations.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/734/trunk/test/configurations/inheritance/configurations.gyp
+END
+configurations.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1938/trunk/test/configurations/inheritance/configurations.c
+END
+duplicates.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1891/trunk/test/configurations/inheritance/duplicates.gyp
+END
+gyptest-inheritance.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1943/trunk/test/configurations/inheritance/gyptest-inheritance.py
+END
+gyptest-duplicates.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1891/trunk/test/configurations/inheritance/gyptest-duplicates.py
+END

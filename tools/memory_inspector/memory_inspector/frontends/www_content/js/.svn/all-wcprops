@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/272163/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js
+END
+webservice.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/256646/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/webservice.js
+END
+settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/257405/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/settings.js
+END
+rootUi.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/265621/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/rootUi.js
+END
+devices.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/265621/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/devices.js
+END
+profiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/272163/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/profiler.js
+END
+timers.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/256646/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/timers.js
+END
+storage.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/272163/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/storage.js
+END
+processes.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/265621/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/processes.js
+END
+mmap.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/260117/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/mmap.js
+END
+nheap.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/265621/trunk/src/tools/memory_inspector/memory_inspector/frontends/www_content/js/nheap.js
+END

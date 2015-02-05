@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/291544/trunk/src/tools/telemetry
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/166638/trunk/src/tools/telemetry/.gitignore
+END
+find_dependencies
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/259108/trunk/src/tools/telemetry/find_dependencies
+END
+run_tests
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/288786/trunk/src/tools/telemetry/run_tests
+END
+telemetry.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/246361/trunk/src/tools/telemetry/telemetry.gyp
+END
+bootstrap_deps
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/266432/trunk/src/tools/telemetry/bootstrap_deps
+END
+run_web_components_dev_server
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/253658/trunk/src/tools/telemetry/run_web_components_dev_server
+END
+cloud_storage
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/283165/trunk/src/tools/telemetry/cloud_storage
+END
+update_docs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/207156/trunk/src/tools/telemetry/update_docs
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/291105/trunk/src/tools/telemetry/OWNERS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166638/trunk/src/tools/telemetry/README
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/275374/trunk/src/tools/telemetry/PRESUBMIT.py
+END

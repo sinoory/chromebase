@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1954/trunk/test/ios
+END
+gyptest-per-config-settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1795/trunk/test/ios/gyptest-per-config-settings.py
+END
+gyptest-app-ios.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1889/trunk/test/ios/gyptest-app-ios.py
+END
+gyptest-extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1954/trunk/test/ios/gyptest-extension.py
+END
+gyptest-xcode-ninja.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1926/trunk/test/ios/gyptest-xcode-ninja.py
+END
+gyptest-archs.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1881/trunk/test/ios/gyptest-archs.py
+END
+gyptest-crosscompile.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1881/trunk/test/ios/gyptest-crosscompile.py
+END
+gyptest-deployment-target.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1595/trunk/test/ios/gyptest-deployment-target.py
+END

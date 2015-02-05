@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/279368/trunk/src/tools/telemetry/third_party
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/211489/trunk/src/tools/telemetry/third_party/.gitignore
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/257916/trunk/src/tools/telemetry/third_party/__init__.py
+END

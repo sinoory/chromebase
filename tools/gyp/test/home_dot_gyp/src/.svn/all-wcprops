@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1938/trunk/test/home_dot_gyp/src
+END
+printfoo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1938/trunk/test/home_dot_gyp/src/printfoo.c
+END
+all.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/747/trunk/test/home_dot_gyp/src/all.gyp
+END

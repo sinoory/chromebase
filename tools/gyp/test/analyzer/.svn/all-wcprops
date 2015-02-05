@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1966/trunk/test/analyzer
+END
+gyptest-analyzer.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1966/trunk/test/analyzer/gyptest-analyzer.py
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1966/trunk/test/analyzer/test.gyp
+END
+test2.includes.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1962/trunk/test/analyzer/test2.includes.gypi
+END
+common.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1962/trunk/test/analyzer/common.gypi
+END
+test2.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1962/trunk/test/analyzer/test2.gyp
+END
+test3.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1966/trunk/test/analyzer/test3.gyp
+END
+test4.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1966/trunk/test/analyzer/test4.gyp
+END
+test2.includes.includes.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1962/trunk/test/analyzer/test2.includes.includes.gypi
+END
+test5.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1966/trunk/test/analyzer/test5.gyp
+END
+test2.toplevel_includes.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1962/trunk/test/analyzer/test2.toplevel_includes.gypi
+END

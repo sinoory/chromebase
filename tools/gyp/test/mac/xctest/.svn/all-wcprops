@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1774/trunk/test/mac/xctest
+END
+resource.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1774/trunk/test/mac/xctest/resource.txt
+END
+TestCase.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1774/trunk/test/mac/xctest/TestCase.m
+END
+MyClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1774/trunk/test/mac/xctest/MyClass.m
+END
+test.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1774/trunk/test/mac/xctest/test.gyp
+END
+MyClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1774/trunk/test/mac/xctest/MyClass.h
+END

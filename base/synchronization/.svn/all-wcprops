@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/288005/trunk/src/base/synchronization
+END
+condition_variable_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/284534/trunk/src/base/synchronization/condition_variable_win.cc
+END
+waitable_event_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/212281/trunk/src/base/synchronization/waitable_event_watcher.h
+END
+waitable_event_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/288005/trunk/src/base/synchronization/waitable_event_posix.cc
+END
+lock_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/223227/trunk/src/base/synchronization/lock_impl.h
+END
+condition_variable_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/284534/trunk/src/base/synchronization/condition_variable_posix.cc
+END
+waitable_event_watcher_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/180450/trunk/src/base/synchronization/waitable_event_watcher_win.cc
+END
+cancellation_flag_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/212281/trunk/src/base/synchronization/cancellation_flag_unittest.cc
+END
+cancellation_flag.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/70369/trunk/src/base/synchronization/cancellation_flag.cc
+END
+lock_impl_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/223227/trunk/src/base/synchronization/lock_impl_win.cc
+END
+lock_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/201389/trunk/src/base/synchronization/lock_unittest.cc
+END
+cancellation_flag.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/146163/trunk/src/base/synchronization/cancellation_flag.h
+END
+lock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/284534/trunk/src/base/synchronization/lock.cc
+END
+waitable_event_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/288005/trunk/src/base/synchronization/waitable_event_unittest.cc
+END
+waitable_event_watcher_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/212281/trunk/src/base/synchronization/waitable_event_watcher_posix.cc
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/284534/trunk/src/base/synchronization/lock.h
+END
+condition_variable_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/259767/trunk/src/base/synchronization/condition_variable_unittest.cc
+END
+waitable_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/288005/trunk/src/base/synchronization/waitable_event.h
+END
+lock_impl_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/223227/trunk/src/base/synchronization/lock_impl_posix.cc
+END
+condition_variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/284534/trunk/src/base/synchronization/condition_variable.h
+END
+spin_wait.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/209144/trunk/src/base/synchronization/spin_wait.h
+END
+waitable_event_watcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/212281/trunk/src/base/synchronization/waitable_event_watcher_unittest.cc
+END
+waitable_event_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/271949/trunk/src/base/synchronization/waitable_event_win.cc
+END

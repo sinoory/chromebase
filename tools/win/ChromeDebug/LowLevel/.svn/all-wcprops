@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/LowLevel
+END
+NativeMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/LowLevel/NativeMethods.cs
+END
+Key.snk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/224165/trunk/src/tools/win/ChromeDebug/LowLevel/Key.snk
+END
+LowLevel.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/223930/trunk/src/tools/win/ChromeDebug/LowLevel/LowLevel.csproj
+END
+Types.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/229941/trunk/src/tools/win/ChromeDebug/LowLevel/Types.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1838/trunk/test/msvs/buildevents
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1837/trunk/test/msvs/buildevents/main.cc
+END
+gyptest-ninja-warnings.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1838/trunk/test/msvs/buildevents/gyptest-ninja-warnings.py
+END
+gyptest-msbuild-supports-prepostbuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1837/trunk/test/msvs/buildevents/gyptest-msbuild-supports-prepostbuild.py
+END
+buildevents.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1837/trunk/test/msvs/buildevents/buildevents.gyp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/290931/trunk/src/tools/gn/bootstrap
+END
+bootstrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/290931/trunk/src/tools/gn/bootstrap/bootstrap.py
+END
+build.ninja.template
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/247274/trunk/src/tools/gn/bootstrap/build.ninja.template
+END
+build_mac.ninja.template
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/285356/trunk/src/tools/gn/bootstrap/build_mac.ninja.template
+END

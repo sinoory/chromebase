@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/285097/trunk/src/tools/memory_inspector/memory_inspector/backends/android
+END
+dumpheap_native_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/254451/trunk/src/tools/memory_inspector/memory_inspector/backends/android/dumpheap_native_parser.py
+END
+android_backend_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/281147/trunk/src/tools/memory_inspector/memory_inspector/backends/android/android_backend_unittest.py
+END
+android_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/285097/trunk/src/tools/memory_inspector/memory_inspector/backends/android/android_backend.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/251045/trunk/src/tools/memory_inspector/memory_inspector/backends/android/__init__.py
+END
+memdump_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/251648/trunk/src/tools/memory_inspector/memory_inspector/backends/android/memdump_parser.py
+END

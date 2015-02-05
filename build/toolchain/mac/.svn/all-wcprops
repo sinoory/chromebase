@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/290894/trunk/src/build/toolchain/mac
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/290894/trunk/src/build/toolchain/mac/BUILD.gn
+END
+setup_toolchain.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/236319/trunk/src/build/toolchain/mac/setup_toolchain.py
+END

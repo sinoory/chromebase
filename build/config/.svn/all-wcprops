@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/291464/trunk/src/build/config
+END
+features.gni
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/285962/trunk/src/build/config/features.gni
+END
+arm.gni
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/286038/trunk/src/build/config/arm.gni
+END
+allocator.gni
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/274797/trunk/src/build/config/allocator.gni
+END
+crypto.gni
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/272574/trunk/src/build/config/crypto.gni
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/236319/trunk/src/build/config/OWNERS
+END
+sysroot.gni
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/270138/trunk/src/build/config/sysroot.gni
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/288436/trunk/src/build/config/BUILD.gn
+END
+BUILDCONFIG.gn
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/287416/trunk/src/build/config/BUILDCONFIG.gn
+END
+ui.gni
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/282663/trunk/src/build/config/ui.gni
+END

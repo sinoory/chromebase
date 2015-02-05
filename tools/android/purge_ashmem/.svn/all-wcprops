@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/270406/trunk/src/tools/android/purge_ashmem
+END
+purge_ashmem.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/270406/trunk/src/tools/android/purge_ashmem/purge_ashmem.gyp
+END
+purge_ashmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/235115/trunk/src/tools/android/purge_ashmem/purge_ashmem.c
+END

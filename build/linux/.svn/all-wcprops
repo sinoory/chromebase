@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/290377/trunk/src/build/linux
+END
+install-arm-sysroot.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/290261/trunk/src/build/linux/install-arm-sysroot.py
+END
+dump_app_syms
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/198800/trunk/src/build/linux/dump_app_syms
+END
+chrome_linux.croc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/61430/trunk/src/build/linux/chrome_linux.croc
+END
+install-chromeos-fonts.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/184986/trunk/src/build/linux/install-chromeos-fonts.py
+END
+pkg-config-wrapper
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/272792/trunk/src/build/linux/pkg-config-wrapper
+END
+system.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/290377/trunk/src/build/linux/system.gyp
+END
+sysroot_ld_path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/251356/trunk/src/build/linux/sysroot_ld_path.sh
+END
+rewrite_dirs.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111385/trunk/src/build/linux/rewrite_dirs.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/286740/trunk/src/build/config/gcc
+END
+gcc_version.gni
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/271941/trunk/src/build/config/gcc/gcc_version.gni
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/286740/trunk/src/build/config/gcc/BUILD.gn
+END

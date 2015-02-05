@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/286720/trunk/src/tools/cr/cr/base
+END
+arch.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/259245/trunk/src/tools/cr/cr/base/arch.py
+END
+host.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/268928/trunk/src/tools/cr/cr/base/host.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/base/client.py
+END
+linux_chromeos.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/286720/trunk/src/tools/cr/cr/base/linux_chromeos.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/base/__init__.py
+END
+linux.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/236525/trunk/src/tools/cr/cr/base/linux.py
+END
+android.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/267514/trunk/src/tools/cr/cr/base/android.py
+END
+buildtype.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/236524/trunk/src/tools/cr/cr/base/buildtype.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/259071/trunk/src/tools/cr/cr/base/context.py
+END
+platform.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/267514/trunk/src/tools/cr/cr/base/platform.py
+END

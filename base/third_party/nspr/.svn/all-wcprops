@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/274022/trunk/src/base/third_party/nspr
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/180648/trunk/src/base/third_party/nspr/OWNERS
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/149423/trunk/src/base/third_party/nspr/README.chromium
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/274022/trunk/src/base/third_party/nspr/BUILD.gn
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/42020/trunk/src/base/third_party/nspr/LICENSE
+END
+prtime.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/270815/trunk/src/base/third_party/nspr/prtime.cc
+END
+prtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/270815/trunk/src/base/third_party/nspr/prtime.h
+END

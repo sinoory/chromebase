@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/actions
+END
+runner.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/actions/runner.py
+END
+gdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/259071/trunk/src/tools/cr/cr/actions/gdb.py
+END
+action.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/actions/action.py
+END
+installer.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/actions/installer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/267550/trunk/src/tools/cr/cr/actions/__init__.py
+END
+gyp.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/260927/trunk/src/tools/cr/cr/actions/gyp.py
+END
+linux.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/259071/trunk/src/tools/cr/cr/actions/linux.py
+END
+ninja.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/266118/trunk/src/tools/cr/cr/actions/ninja.py
+END
+debugger.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/actions/debugger.py
+END
+adb.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/259071/trunk/src/tools/cr/cr/actions/adb.py
+END
+builder.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/258609/trunk/src/tools/cr/cr/actions/builder.py
+END

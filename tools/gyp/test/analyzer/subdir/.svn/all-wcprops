@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1956/trunk/test/analyzer/subdir
+END
+subdir.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1956/trunk/test/analyzer/subdir/subdir.gyp
+END

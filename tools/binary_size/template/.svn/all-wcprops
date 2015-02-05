@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/264270/trunk/src/tools/binary_size/template
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/264270/trunk/src/tools/binary_size/template/index.html
+END
+test-data-generator.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/264270/trunk/src/tools/binary_size/template/test-data-generator.html
+END
+D3SymbolTreeMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/264270/trunk/src/tools/binary_size/template/D3SymbolTreeMap.js
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers
+END
+adm_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/adm_writer_unittest.py
+END
+adm_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/adm_writer.py
+END
+plist_strings_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/plist_strings_writer_unittest.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/grit/format/policy_templates/writers/__init__.py
+END
+plist_strings_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/plist_strings_writer.py
+END
+ios_plist_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/ios_plist_writer_unittest.py
+END
+doc_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/doc_writer_unittest.py
+END
+xml_formatted_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/159/trunk/grit/format/policy_templates/writers/xml_formatted_writer.py
+END
+doc_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/doc_writer.py
+END
+ios_plist_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/160/trunk/grit/format/policy_templates/writers/ios_plist_writer.py
+END
+json_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/json_writer_unittest.py
+END
+json_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/159/trunk/grit/format/policy_templates/writers/json_writer.py
+END
+template_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/grit/format/policy_templates/writers/template_writer_unittest.py
+END
+template_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/139/trunk/grit/format/policy_templates/writers/template_writer.py
+END
+reg_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/reg_writer_unittest.py
+END
+adml_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/adml_writer_unittest.py
+END
+adml_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/adml_writer.py
+END
+reg_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/reg_writer.py
+END
+writer_unittest_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/79/trunk/grit/format/policy_templates/writers/writer_unittest_common.py
+END
+admx_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/admx_writer_unittest.py
+END
+mock_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/grit/format/policy_templates/writers/mock_writer.py
+END
+admx_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/admx_writer.py
+END
+xml_writer_base_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/70/trunk/grit/format/policy_templates/writers/xml_writer_base_unittest.py
+END
+plist_writer_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/plist_writer_unittest.py
+END
+plist_writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/170/trunk/grit/format/policy_templates/writers/plist_writer.py
+END
+plist_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/grit/format/policy_templates/writers/plist_helper.py
+END

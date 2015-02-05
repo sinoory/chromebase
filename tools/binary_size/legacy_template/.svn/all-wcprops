@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/264270/trunk/src/tools/binary_size/legacy_template
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/264270/trunk/src/tools/binary_size/legacy_template/.gitignore
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/264270/trunk/src/tools/binary_size/legacy_template/index.html
+END

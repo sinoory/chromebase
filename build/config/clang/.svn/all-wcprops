@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/268042/trunk/src/build/config/clang
+END
+clang.gni
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/265940/trunk/src/build/config/clang/clang.gni
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/268042/trunk/src/build/config/clang/BUILD.gn
+END
