@@ -8,3 +8,4 @@ can use -fpic to generate position independent code lib.so
 
 g++ main.c -I .. -static -L../out/Release/obj/base/ -lbase -lbase_static -lpthread
 
+g++ -DDEBUG  main.c -I .. -static -L../out/Debug/obj/base/ -L ../out/Debug/obj/third_party/libevent/ -lbase -lbase_static -levent  -lglib-2.0 -lpthread
