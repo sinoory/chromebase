@@ -16,6 +16,7 @@
       'dependencies': [
         'some.gyp:*',
         '../base/base.gyp:*',
+        '../ipc/ipc.gyp:*',
       ],
       'conditions': [
         ['OS!="ios" and OS!="android"', {
