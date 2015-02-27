@@ -17,6 +17,7 @@
         'some.gyp:*',
         '../base/base.gyp:*',
         '../ipc/ipc.gyp:*',
+        '../main/main.gyp:*',
       ],
       'conditions': [
         ['OS!="ios" and OS!="android"', {
