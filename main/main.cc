@@ -7,6 +7,7 @@
 #include <string>
 #include <vector>
 
+#define IPC_MESSAGE_IMPL
 #include "base/basictypes.h"
 #include "base/bind.h"
 #include "base/logging.h"

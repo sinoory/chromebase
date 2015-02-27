@@ -4,8 +4,8 @@
 
 #include <string>
 
+#define IPC_MESSAGE_IMPL
 #include "ipc/ipc_message_macros.h"
-
 #define IPC_MESSAGE_START TestMsgStart
 
 IPC_SYNC_MESSAGE_CONTROL0_0(SyncChannelTestMsg_NoArgs)
