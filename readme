@@ -1,0 +1,6 @@
+./build/gyp_chromium
+ninja -C out/Release main
+
+
+#disable chromium style plugin 
+GYP_DEFINES="clang_use_chrome_plugins=0" ./build/gyp_chromium
