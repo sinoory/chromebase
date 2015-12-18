@@ -16,5 +16,5 @@ else
   LIBSUFFIX=so
 fi
 
-echo -Xclang -load -Xclang $CLANG_LIB_PATH/libFindBadConstructs.$LIBSUFFIX \
-  -Xclang -add-plugin -Xclang find-bad-constructs
+#echo -Xclang -load -Xclang \
+#  -Xclang -add-plugin -Xclang find-bad-constructs

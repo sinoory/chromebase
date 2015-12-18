@@ -113,7 +113,7 @@ fi
 
 # Copy plugins. Some of the dylibs are pretty big, so copy only the ones we
 # care about.
-cp "${LLVM_LIB_DIR}/libFindBadConstructs.${SO_EXT}" $PDIR/lib
+#cp "${LLVM_LIB_DIR}/libFindBadConstructs.${SO_EXT}" $PDIR/lib
 
 BLINKGCPLUGIN_LIBNAME=\
 $(grep LIBRARYNAME "$THIS_DIR"/../blink_gc_plugin/Makefile \
