@@ -1,245 +1,0 @@
-10
-
-dir
-291179
-http://src.chromium.org/svn/trunk/deps/third_party/icu52/source/samples
-http://src.chromium.org/svn
-
-
-
-2014-04-21T17:05:42.346351Z
-265011
-jshin@chromium.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4ff67af0-8c30-449e-8e8b-ad334ec8d88c
-
-defs.mk
-file
-
-
-
-
-2014-11-19T12:49:25.108436Z
-83478f4fce8988d0b1e75696385f997b
-2014-04-21T17:05:42.346351Z
-265011
-jshin@chromium.org
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1060
-
-strsrch
-dir
-
-coll
-dir
-
-udata
-dir
-
-cal
-dir
-
-translit
-dir
-
-dtptngsample
-dir
-
-csdet
-dir
-
-numfmt
-dir
-
-citer
-dir
-
-ucnv
-dir
-
-case
-dir
-
-date
-dir
-
-layout
-dir
-
-ugrep
-dir
-
-uciter8
-dir
-
-break
-dir
-
-ustring
-dir
-
-plurfmtsample
-dir
-
-msgfmt
-dir
-
-datecal
-dir
-
-rules.mk
-file
-
-
-
-
-2014-11-19T12:49:25.108436Z
-a11e0875dad9fcf51d55fc5a282fb62c
-2014-04-21T17:05:42.346351Z
-265011
-jshin@chromium.org
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1170
-
-props
-dir
-
-dtitvfmtsample
-dir
-
-legacy
-dir
-
-ufortune
-dir
-
-all
-dir
-
-readme.txt
-file
-
-
-
-
-2014-11-19T12:49:25.112436Z
-0c6b470fb7f0e1019a3078a6be82fd8c
-2014-03-26T22:15:14.109269Z
-259715
-jshin@chromium.org
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2708
-
-uresb
-dir
-
-Makefile.in
-file
-
-
-
-
-2014-11-19T12:49:25.108436Z
-f5db67a1037d007f02a26f57cba51e15
-2014-03-26T22:15:14.109269Z
-259715
-jshin@chromium.org
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2930
-
-datefmt
-dir
-

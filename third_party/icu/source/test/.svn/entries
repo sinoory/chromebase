@@ -1,98 +1,0 @@
-10
-
-dir
-291179
-http://src.chromium.org/svn/trunk/deps/third_party/icu52/source/test
-http://src.chromium.org/svn
-
-
-
-2014-04-21T17:05:42.346351Z
-265011
-jshin@chromium.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4ff67af0-8c30-449e-8e8b-ad334ec8d88c
-
-depstest
-dir
-
-perf
-dir
-
-testmap
-dir
-
-letest
-dir
-
-Makefile.in
-file
-
-
-
-
-2014-11-19T12:57:04.196412Z
-7ec24aa0b298197f55d0c333d6ee5efe
-2014-03-26T22:15:14.109269Z
-259715
-jshin@chromium.org
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5087
-
-compat
-dir
-
-cintltst
-dir
-
-thaitest
-dir
-
-intltest
-dir
-
-iotest
-dir
-
-threadtest
-dir
-
-hdrtst
-dir
-
-testdata
-dir
-

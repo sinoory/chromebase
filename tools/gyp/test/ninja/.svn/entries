@@ -1,49 +1,0 @@
-10
-
-dir
-1967
-http://gyp.googlecode.com/svn/trunk/test/ninja
-http://gyp.googlecode.com/svn
-
-
-
-2014-07-25T13:29:18.325082Z
-1955
-sbaig1@bloomberg.net
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-78cadc50-ecff-11dd-a971-7dbc132099af
-
-action_dependencies
-dir
-
-use-custom-environment-files
-dir
-
-chained-dependency
-dir
-
-normalize-paths-win
-dir
-
-use-console
-dir
-
-solibs_avoid_relinking
-dir
-
-s-needs-no-depfiles
-dir
-

@@ -1,2 +1,0 @@
-# This test intentionally crashes with a NULL deref.
-UnitTests.SEGVDeathWithMessage

@@ -1,43 +1,0 @@
-10
-
-dir
-1967
-http://gyp.googlecode.com/svn/trunk/test/configurations
-http://gyp.googlecode.com/svn
-
-
-
-2014-06-17T11:39:16.734991Z
-1943
-torne@chromium.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-78cadc50-ecff-11dd-a971-7dbc132099af
-
-basics
-dir
-
-invalid
-dir
-
-inheritance
-dir
-
-target_platform
-dir
-
-x64
-dir
-
